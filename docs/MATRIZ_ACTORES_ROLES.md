@@ -23,9 +23,9 @@ Los tres integrantes confirmamos esta distribución de responsabilidades. Cada r
 
 | Integrante | Rol | Responsabilidades de fase 1 |
 | --- | --- | --- |
-| Jose Martin Fuel | Coordinación de contexto y software | Describir el problema, justificar la selección del sistema y presentar el contexto en el video |
-| Kevin Almache | Coordinación de infraestructura y repositorio | Preparar la matriz de actores, organizar el repositorio y explicar la distribución del trabajo en el video |
-| Felipe Montenegro | Coordinación de comunicación e integridad | Preparar el contrato y la declaración de integridad, revisar la licencia y coordinar la edición del video |
+| Jose Martin Fuel | Líder de Investigación Cuantitativa y Análisis Sociotecnológico | Describir el problema, justificar la selección del sistema y presentar el contexto en el video |
+| Kevin Almache | Administrador de Redes e Infraestructura | Preparar la matriz de actores, organizar el repositorio y presentar la distribución operativa y la visión de infraestructura distribuida en el video. |
+| Felipe Montenegro | Desarrollador de Software y Seguridad | Preparar el contrato y la declaración de integridad, revisar la licencia y coordinar la edición del video |
 
 ## Distribución de tareas
 
