@@ -41,4 +41,4 @@ Los tres integrantes confirmamos esta distribución de responsabilidades. Cada r
 | Edición del video | Felipe Montenegro |
 | Decisiones y revisión de la entrega | Los tres integrantes |
 
-Como coordinación del proyecto completo, Jose acompañará software; Kevin, infraestructura; y Felipe, seguridad. El componente cuantitativo será compartido y Felipe coordinará Tecnología y Sociedad con aportes de los tres. Esta asignación no implica ejecutar fases posteriores en la presente entrega.
+Como coordinación del proyecto completo, habrá principales asignados para cada materia, Jose acompañará software; Kevin, infraestructura; y Felipe, seguridad. El componente cuantitativo será compartido y Felipe coordinará Tecnología y Sociedad y entre todos nos ayudaremos para todas las asignaturas.
