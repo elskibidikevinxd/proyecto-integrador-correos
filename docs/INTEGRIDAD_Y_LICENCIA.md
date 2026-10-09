@@ -14,7 +14,7 @@ Referencia consultada el 9 de octubre de 2026: [MIT License](https://choosealice
 
 ## Uso de herramientas de IA
 
-Se utilizó Codex para organizar la estructura de la carpeta docs de GitHub, que sirve como respaldo de la documentación del repositorio siguiendo las instrucciones y los entregables de fase 1 de la consigna. También se utilizó como apoyo para preparar borradores de los documentos y un guion de presentación.
+Se utilizó para organizar la estructura de la carpeta docs de GitHub, que sirve como respaldo de la documentación del repositorio siguiendo las instrucciones y los entregables de fase 1. También se utilizó como apoyo para preparar borradores de los documentos y un guion de presentación.
 
 El equipo dirige la selección del sistema, los acuerdos de trabajo, la revisión del contenido y la elaboración del video. La presentación y la responsabilidad académica corresponden a Jose Martin Fuel, Kevin Almache y Felipe Montenegro.
 
