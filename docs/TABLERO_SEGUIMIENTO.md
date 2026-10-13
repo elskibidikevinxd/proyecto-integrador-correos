@@ -24,8 +24,8 @@
 | F1-02 | Matriz de actores, roles y responsabilidades | KA | 1–2 | Hecho | No | `docs/` |
 | F1-03 | Contrato de comunicación del equipo | FM | 1–2 | Hecho | No | `docs/` |
 | F1-04 | Repositorio Git con README y licencia preliminar | KA | 1–2 | Hecho | No | enlace del repo |
-| F1-05 | Declaración de integridad, licencia y uso de IA | FM | 1–2 | Pendiente | No | verificar que esté en el repo |
-| F1-06 | Video de presentación y distribución de responsabilidades | Todos (edita FM) | 1–2 | Pendiente | No | enlace del video |
+| F1-05 | Declaración de integridad, licencia y uso de IA | FM | 1–2 | hecho | No | verificar que esté en el repo |
+| F1-06 | Video de presentación y distribución de responsabilidades | Todos (edita FM) | 1–2 | hecho | No | enlace del video |
 
 ## Fase 2 – Análisis y requisitos (Sem. 3–5)
 
