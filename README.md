@@ -1,3 +1,5 @@
+## Fase 1
+
 # Correos internos entre dos sedes
 
 Proyecto integrador de tercer nivel de Ingeniería en Sistemas de Información.
@@ -43,3 +45,7 @@ MIT es la licencia preliminar elegida para las aportaciones propias. Las licenci
 
 Fuente académica: “PROYECTO INTEGRADOR – TERCER NIVEL”, apartados 1 a 5 y apartado 6, fase 1.
 Se utilizó Codex para organizar la documentación y preparar borradores, incluido un guion de apoyo. El equipo dirige la revisión y presentación del proyecto.
+
+## Fase 2
+
+[Ver documento en PDF de la Fase 2](./docs/Fase2_POO_Grupo9.pdf)
