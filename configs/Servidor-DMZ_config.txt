@@ -1,0 +1,15 @@
+FastEthernet0 Connection:(default port)
+
+   Connection-specific DNS Suffix..: 
+   Physical Address................: 0003.E4AE.571C
+   Link-local IPv6 Address.........: FE80::203:E4FF:FEAE:571C
+   IPv6 Address....................: ::
+   IPv4 Address....................: 10.10.10.66
+   Subnet Mask.....................: 255.255.255.224
+   Default Gateway.................: ::
+                                     10.10.10.65
+   DHCP Servers....................: 0.0.0.0
+   DHCPv6 IAID.....................: 
+   DHCPv6 Client DUID..............: 00-01-00-01-81-52-66-E8-00-03-E4-AE-57-1C
+   DNS Servers.....................: ::
+                                     0.0.0.0
