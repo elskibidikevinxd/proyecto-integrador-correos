@@ -1,8 +1,0 @@
-## Preliminary Test Matrix
-
-| Test ID | Source | Destination | Procedure | Expected Result | Observed Result | Status |
-|---|---|---|---|---|---|---|
-| PR-01 | PC-A1 | Gateway A | `ping 10.10.10.1` | 4/4 replies received | 0% loss | Passed |
-| PR-02 | PC-A1 | DHCP Server | `ipconfig /renew` | Valid lease in range | Assigned `10.10.10.11` | Passed |
-| PR-03 | PC-A1 | PC-B1 | `ping 10.10.20.11` | Intersite connectivity | 4/4 packets received | Passed |
-| PR-04 | Switch-A | Router-A | VLAN subinterfaces | 802.1Q trunking | Pending W10 hardware | Pending |
