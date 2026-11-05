@@ -56,7 +56,7 @@ Aqui se presentaran los archivos entregables de la materia de PROGRAMACION ORIEN
 
 Aqui se presentaran los archivos entregables de la materia de TECNOLOGIA DE COMUNICACION DE INFORMACION EN RED
 
-[Ver documento en PDF de la Fase 2](./docs/Redes_informe_fase_2.pdf)
-[Ver tabla preliminar](./docs/Preliminary_test_matrix_redes.md)
-[Ver tabla de vlan's](./docs/tablavlans.md)
-[Ver tabla de cronograma](./docs/updatedschedule.md)
+1. [Ver documento en PDF de la Fase 2](./docs/Redes_informe_fase_2.pdf)
+2. [Ver tabla preliminar](./docs/Preliminary_test_matrix_redes.md)
+3. [Ver tabla de vlan's](./docs/tablavlans.md)
+4. [Ver tabla de cronograma](./docs/updatedschedule.md)
