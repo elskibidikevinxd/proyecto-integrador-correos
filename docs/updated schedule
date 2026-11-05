@@ -1,0 +1,7 @@
+## Cronograma actualizado de Redes
+| Semana | Tarea / entregable | Responsable | Estado | Evidencia o resultado |
+|---|---|---|---|---|
+| 9 | Cerrar el prototipo IPv4 inicial en Packet Tracer: direccionamiento, DHCP en las LAN implementadas, rutas estáticas y pruebas preliminares. Completar el informe y reunir el diagrama, la tabla VLSM, la matriz de pruebas y los respaldos. | Kevin Almache | En curso | Archivo `.pkt`, respaldos de configuración, capturas y reporte |
+| 10 | Revisar el contenido de switching y recibir el equipo asignado. Confirmar interfaces físicas y preparar el mapa de puertos, las VLAN y el plan de migración a OpenWrt. | Kevin Almache | Planificado | Mapa de interfaces y plan de implementación |
+| 11 | Completar la simulación de las dos sedes en Packet Tracer: VLAN 10, 20, 30 y 99; trunks 802.1Q; Router-on-a-Stick; EtherChannel; RSTP; OSPF; NAT y firewall. Repetir y registrar las pruebas de conectividad y servicios. | Kevin Almache | Planificado | `.pkt` completo, configuraciones guardadas y matriz de pruebas actualizada |
+| 11 | Realizar el despliegue inicial del equipo autorizado. Mapear conexiones físicas, aplicar el direccionamiento, configurar administración segura y comprobar conectividad básica y servicios disponibles. | Kevin Almache | Planificado; depende de la entrega del equipo | Configuración inicial, mapa de puertos y evidencias del despliegue |
