@@ -60,5 +60,5 @@ Aqui se presentaran los archivos entregables de la materia de TECNOLOGIA DE COMU
 2. [Ver tabla preliminar](./docs/Preliminary_test_matrix_redes.md)
 3. [Ver tabla de vlan's](./docs/tabla_vlans.md)
 4. [Ver tabla de cronograma](./docs/updated_schedule.md)
-5. [Ver diagrama](./docs/Diagrama_pkt.png) 
-6. [Descargar archivo pkt](./docs/archivo_pocket_tracer_terminado_proyecto.pkt)
+5. [Ver diagrama](./pkt-topology/Diagrama_pkt.png) 
+6. [Descargar archivo pkt](./pkt-topology/archivo_pocket_tracer_terminado_proyecto.pkt)
