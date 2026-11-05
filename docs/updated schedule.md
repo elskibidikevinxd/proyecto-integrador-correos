@@ -1,4 +1,4 @@
-# Cronograma actualizado de Redes
+# Updated schedule
 
 | Semana | Tarea / entregable | Responsable | Estado | Evidencia o resultado |
 |---|---|---|---|---|
